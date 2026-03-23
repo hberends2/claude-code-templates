@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-22T04:56:55.672193+00:00",
-  "totalJobs": 71,
+  "lastUpdated": "2026-03-23T05:08:06.662863+00:00",
+  "totalJobs": 72,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -364,6 +364,31 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "hn-47241620",
+      "company": "Mobasi",
+      "position": "Software Engineer",
+      "location": "Austin, TX / Remote",
+      "remote": true,
+      "salary": "$240k",
+      "description": "Mobasi builds autonomous AI agents for digital forensics. Our software orchestrates 150+ forensic tools to help law enforcement turn days of manual evidence analysis into minutes, aiding in cases involving child exploitation, trafficking, and homicide. We are bootstrapped, profitable, and shipping...",
+      "applyUrl": "https://news.ycombinator.com/item?id=47241620",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47241620",
+      "postedAt": "2026-03-04T01:05:51+00:00",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Docker",
+        "Cursor"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-47237652",
