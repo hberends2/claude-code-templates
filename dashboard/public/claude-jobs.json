@@ -1,62 +1,25 @@
 {
-  "lastUpdated": "2026-06-22T09:14:01.456837+00:00",
-  "totalJobs": 95,
+  "lastUpdated": "2026-06-23T06:54:30.318238+00:00",
+  "totalJobs": 94,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "WeWorkRemotely"
+    "RemoteOK"
   ],
   "jobs": [
     {
-      "id": "wwr-pos-full-stack-javascript-engineer-remote-latam-or-europe",
-      "company": "POS+",
-      "position": "Full-Stack JavaScript Engineer (Remote - LATAM or Europe)",
+      "id": "rok-remote-digital-marketing-designer-format-1133916",
+      "company": "Format",
+      "position": "Digital Marketing Designer",
       "location": "Remote",
       "remote": true,
       "salary": "",
-      "description": "Headquarters: Remote / USA URL: https://www.posplus.org/ Summary Senior Full-Stack JavaScript Engineer (Remote - LATAM or Europe) Company: POS+ (posplus.org) Location: Fully Remote (Targeting LATAM or Europe time zones for team overlap) Type: Full-Time Independent Contractor Tech Stack: Node.js,...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
-      "postedAt": "Wed, 03 Jun 2026 17:06:51 +0000",
-      "tags": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "GCP",
-        "Docker",
-        "Copilot",
-        "MongoDB"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-lemon-io-senior-ai-engineer-architect",
-      "company": "Lemon.io",
-      "position": "Senior AI Engineer / Architect",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe....",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
-      "postedAt": "Tue, 02 Jun 2026 16:36:48 +0000",
-      "tags": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Rust",
-        "Go",
-        "Node.js",
-        "Azure",
-        "React Native"
-      ],
+      "description": "Title: Digital Marketing Designer Reports to: Head of Design Location: Remote (CA) About Zenfolio Inc. Zenfolio Inc. offers multiple e-commerce solutions for photographers to showcase their work, manage their business, and build their brand. For almost two decades, Zenfolio Inc. has proudly served...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
+      "postedAt": "2026-06-22T00:00:00+00:00",
+      "tags": [],
       "companyIcon": ""
     },
     {
