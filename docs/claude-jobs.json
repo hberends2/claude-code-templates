@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-29T09:51:58.012701+00:00",
-  "totalJobs": 104,
+  "lastUpdated": "2026-08-30T09:03:11.933602+00:00",
+  "totalJobs": 100,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -961,24 +961,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48754933",
-      "company": "Connie Health",
-      "position": "Senior Analytics Engineer",
-      "location": "Boston, MA",
-      "remote": false,
-      "salary": "$150k-$185k",
-      "description": "Connie Health is a fast-growing Medicare brokerage on a mission to empower older Americans to make confident, worry-free Medicare plan decisions. We offer a tech-enabled Medicare navigation platform that combines AI-driven technology with local Medicare experts to help people select optimal...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48754933",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48754933",
-      "postedAt": "2026-07-02T00:34:57+00:00",
-      "tags": [
-        "Rust",
-        "PostgreSQL"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48754582",
       "company": "Obsidian Security",
       "position": "Staff Software Engineer",
@@ -1405,23 +1387,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48383195",
-      "company": "Neuralk AI",
-      "position": "Software Engineer",
-      "location": "Full-time",
-      "remote": false,
-      "salary": "",
-      "description": "We are a seed stage startup building Tabular Foundation Models (TFM). This is an emerging space with huge potential. LLM's like Claude take text as input and produce text. Model's like nano banana take text as input and produce images. Tabular Foundation Models take rows/columns as input, and...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48383195",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48383195",
-      "postedAt": "2026-06-03T12:38:50+00:00",
-      "tags": [
-        "Python"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48377948",
       "company": "ALBERT",
       "position": "Software Engineer",
@@ -1637,30 +1602,6 @@
         "Claude Code",
         "React Native",
         "Django"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48358775",
-      "company": "Emergences Labs (emergences.ai)",
-      "position": "Software Engineer",
-      "location": "REMOTE (US)",
-      "remote": true,
-      "salary": "$120K-$150K",
-      "description": "We're a small, research-driven, VC-backed team building NeoHuman: a desktop-first system that observes how people actually use AI tools, files, and workflows during real tasks, and turns those sessions into reliable evaluation evidence. We care about the process, not just the final answer — what...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48358775",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48358775",
-      "postedAt": "2026-06-01T16:10:18+00:00",
-      "tags": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "PostgreSQL",
-        "Supabase",
-        "Claude Code",
-        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -2093,28 +2034,6 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
       "postedAt": "2026-01-26T16:58:37-05:00",
       "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5074908008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "postedAt": "2026-01-21T12:42:00-05:00",
-      "tags": [
-        "TypeScript",
-        "Python",
         "Rust",
         "AWS",
         "Claude Code",
