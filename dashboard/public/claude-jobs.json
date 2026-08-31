@@ -1,12 +1,60 @@
 {
-  "lastUpdated": "2026-08-30T09:03:11.933602+00:00",
-  "totalJobs": 100,
+  "lastUpdated": "2026-08-31T09:31:08.956755+00:00",
+  "totalJobs": 104,
   "sources": [
     "Anthropic",
     "HackerNews",
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "wwr-toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+      "company": "Toptal",
+      "position": "Python Backend Development Talent with RAG and Agentic AI Experience",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Summary: We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI frameworks. The role will focus on delivering a production-grade RAG system and AI...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+      "postedAt": "Wed, 12 Aug 2026 18:38:32 +0000",
+      "tags": [
+        "Python",
+        "Go",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "company": "Toptal",
+      "position": "Senior Software Engineer for AI-Powered Banking Platform",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript,...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "postedAt": "Wed, 12 Aug 2026 12:18:51 +0000",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "wwr-lemon-io-senior-ai-engineer-4",
       "company": "Lemon.io",
@@ -30,32 +78,6 @@
         "Node.js",
         "React Native",
         "Swift"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "company": "Hygraph",
-      "position": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship features that solve real customer problems,...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "postedAt": "Fri, 31 Jul 2026 11:59:36 +0000",
-      "tags": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Rust",
-        "Go",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "GCP",
-        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -961,6 +983,24 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48754933",
+      "company": "Connie Health",
+      "position": "Senior Analytics Engineer",
+      "location": "Boston, MA",
+      "remote": false,
+      "salary": "$150k-$185k",
+      "description": "Connie Health is a fast-growing Medicare brokerage on a mission to empower older Americans to make confident, worry-free Medicare plan decisions. We offer a tech-enabled Medicare navigation platform that combines AI-driven technology with local Medicare experts to help people select optimal...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48754933",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48754933",
+      "postedAt": "2026-07-02T00:34:57+00:00",
+      "tags": [
+        "Rust",
+        "PostgreSQL"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48754582",
       "company": "Obsidian Security",
       "position": "Staff Software Engineer",
@@ -1187,26 +1227,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "anth-5255912008",
-      "company": "Anthropic",
-      "position": "Engineering Manager, Enterprise",
-      "location": "San Francisco, CA",
-      "remote": false,
-      "salary": "",
-      "description": "Enterprise is central to Anthropic's mission. The organizations that could benefit most from Claude are often the most demanding buyers, with rigorous requirements around security, compliance, and control. We believe earning their trust is essential to ensuring AI benefits the world broadly. We're...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
-      "postedAt": "2026-06-12T23:46:11-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "hn-48505744",
       "company": "Wrenly",
       "position": "Software Engineer",
@@ -1383,6 +1403,23 @@
         "Rust",
         "Claude Code",
         "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48383195",
+      "company": "Neuralk AI",
+      "position": "Software Engineer",
+      "location": "Full-time",
+      "remote": false,
+      "salary": "",
+      "description": "We are a seed stage startup building Tabular Foundation Models (TFM). This is an emerging space with huge potential. LLM's like Claude take text as input and produce text. Model's like nano banana take text as input and produce images. Tabular Foundation Models take rows/columns as input, and...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48383195",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48383195",
+      "postedAt": "2026-06-03T12:38:50+00:00",
+      "tags": [
+        "Python"
       ],
       "companyIcon": ""
     },
@@ -1602,6 +1639,30 @@
         "Claude Code",
         "React Native",
         "Django"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48358775",
+      "company": "Emergences Labs (emergences.ai)",
+      "position": "Software Engineer",
+      "location": "REMOTE (US)",
+      "remote": true,
+      "salary": "$120K-$150K",
+      "description": "We're a small, research-driven, VC-backed team building NeoHuman: a desktop-first system that observes how people actually use AI tools, files, and workflows during real tasks, and turns those sessions into reliable evaluation evidence. We care about the process, not just the final answer — what...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48358775",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48358775",
+      "postedAt": "2026-06-01T16:10:18+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Supabase",
+        "Claude Code",
+        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -2034,6 +2095,28 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
       "postedAt": "2026-01-26T16:58:37-05:00",
       "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5074908008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "postedAt": "2026-01-21T12:42:00-05:00",
+      "tags": [
+        "TypeScript",
+        "Python",
         "Rust",
         "AWS",
         "Claude Code",
