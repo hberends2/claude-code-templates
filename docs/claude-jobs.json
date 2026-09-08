@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-07T08:04:54.498163+00:00",
-  "totalJobs": 102,
+  "lastUpdated": "2026-09-08T07:56:15.315908+00:00",
+  "totalJobs": 105,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -50,6 +50,50 @@
         "GCP",
         "Docker",
         "Kubernetes",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-zeta-global-senior-product-designer-ai",
+      "company": "Zeta Global",
+      "position": "Senior Product Designer, AI",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$160,000 - $180,000",
+      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+      "postedAt": "Tue, 18 Aug 2026 20:32:19 +0000",
+      "tags": [
+        "React",
+        "Next.js",
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-zeta-global-senior-product-designer-agentic-ai-applications",
+      "company": "Zeta Global",
+      "position": "Senior Product Designer, Agentic AI Applications",
+      "location": "Remote",
+      "remote": true,
+      "salary": "$160,000 - $180,000",
+      "description": "Headquarters: Remote - United States WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+      "postedAt": "Tue, 18 Aug 2026 20:32:19 +0000",
+      "tags": [
+        "React",
+        "Next.js",
+        "Rust",
+        "Go",
         "Claude Code",
         "Cursor"
       ],
@@ -124,6 +168,28 @@
         "Docker",
         "Kubernetes",
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-49598051",
+      "company": "BOSS-IQ",
+      "position": "Software Engineer",
+      "location": "REMOTE (worldwide)",
+      "remote": true,
+      "salary": "",
+      "description": "BOSS-IQ is an AI strategic-planning product for owner-operators of small and medium businesses. The boss describes an idea that has been stuck for years; a research-and-question session returns an implementation-ready plan. In production since June, hand-onboarding our first paying customers since...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49598051",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49598051",
+      "postedAt": "2026-09-07T13:13:20+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Rust",
+        "PostgreSQL",
+        "Redis"
       ],
       "companyIcon": ""
     },
