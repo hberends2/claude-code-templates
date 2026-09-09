@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T07:56:15.315908+00:00",
+  "lastUpdated": "2026-09-09T07:59:01.959923+00:00",
   "totalJobs": 105,
   "sources": [
     "Anthropic",
@@ -168,6 +168,27 @@
         "Docker",
         "Kubernetes",
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-49615435",
+      "company": "ALBERT",
+      "position": "Software Engineer",
+      "location": "REMOTE ALMOST ANYWHERE IN THE WORLD",
+      "remote": true,
+      "salary": "$750k",
+      "description": "We're a consumer fintech with 25M+ users who trust us to budget, save, invest, and bank in one place. Profitable for 4+ years. And as of today, our average employee tenure is 3.6 years, a number you almost never see in startup tech, and one we're quietly proud of. People stay because the work is...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49615435",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49615435",
+      "postedAt": "2026-09-08T19:19:18+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "Rust",
+        "PostgreSQL",
+        "React Native"
       ],
       "companyIcon": ""
     },
@@ -2075,28 +2096,6 @@
         "GCP",
         "Azure",
         "Kubernetes",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5098025008",
-      "company": "Anthropic",
-      "position": "Model Performance Software Engineer, Claude Code",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "We're looking for a Staff Software Engineer to set technical direction at the intersection of engineering and research on the Claude Code team. In this role, you'll partner directly with Anthropic's researchers and engineering leadership to shape how we measure, understand, and improve Claude's...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
-      "postedAt": "2026-02-02T17:15:17-05:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
-        "AWS",
         "Claude Code",
         "Anthropic"
       ],
