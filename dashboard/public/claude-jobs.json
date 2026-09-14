@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T08:08:05.458205+00:00",
+  "lastUpdated": "2026-09-14T08:42:35.722830+00:00",
   "totalJobs": 96,
   "sources": [
     "Anthropic",
@@ -7,6 +7,27 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "wwr-huzzle-full-stack-developer-python-react-ai",
+      "company": "Huzzle",
+      "position": "Full-Stack Developer (Python, React, AI)",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Mexico About Huzzle At Huzzle, we connect high-performing B2B sales professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. We match...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+      "postedAt": "Tue, 18 Aug 2026 20:34:05 +0000",
+      "tags": [
+        "React",
+        "Python",
+        "AWS",
+        "Claude Code",
+        "MongoDB"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "wwr-happyco-senior-product-designer-mobile-experience",
       "company": "Happyco",
@@ -68,26 +89,6 @@
         "Go",
         "Claude Code",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "company": "ZoomInfo Technologies LLC",
-      "position": "Principal Business Intelligence Analyst",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "postedAt": "Sat, 15 Aug 2026 07:31:27 +0000",
-      "tags": [
-        "React",
-        "Python",
-        "Rust",
-        "Claude Code"
       ],
       "companyIcon": ""
     },
