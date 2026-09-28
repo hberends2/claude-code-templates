@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-27T09:04:14.105128+00:00",
-  "totalJobs": 90,
+  "lastUpdated": "2026-09-28T09:32:12.672363+00:00",
+  "totalJobs": 89,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1502,26 +1502,6 @@
         "Cursor"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5277834008",
-      "company": "Anthropic",
-      "position": "Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences)",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "Biology is the area where scientific progress has perhaps the greatest potential to directly and unambiguously improve human life — and we believe powerful AI could meaningfully accelerate the rate of biological discovery, helping compress decades of progress into years. With Claude for Life...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
-      "postedAt": "2026-06-24T13:51:42-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5255912008",
