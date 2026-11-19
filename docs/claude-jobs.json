@@ -1,90 +1,34 @@
 {
-  "lastUpdated": "2026-11-18T03:12:21.817174+00:00",
-  "totalJobs": 99,
+  "lastUpdated": "2026-11-19T03:12:23.404979+00:00",
+  "totalJobs": 101,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "WeWorkRemotely"
+    "RemoteOK"
   ],
   "jobs": [
     {
-      "id": "wwr-vertex-marketing-group-distribution-engineer",
-      "company": "Vertex Marketing Group",
-      "position": "Distribution Engineer",
-      "location": "Remote",
-      "remote": true,
+      "id": "anth-5483945008",
+      "company": "Anthropic",
+      "position": "Applied AI Engineer, Commercial",
+      "location": "San Francisco, CA",
+      "remote": false,
       "salary": "",
-      "description": "Headquarters: Bulgaria URL: https://vertexmg.com Scale our distribution by code: a fleet of real devices, iPhones first and Android too, plus platform APIs and AI agents, posting across many accounts and surfaces. You work directly with the founder. Most content gets made and then dies at a few...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
-      "postedAt": "Tue, 20 Oct 2026 11:32:37 +0000",
-      "tags": [
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-toptal-ai-engineer-agentic-systems",
-      "company": "Toptal",
-      "position": "AI Engineer - Agentic Systems",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Summary We are seeking a highly hands-on AI Engineer with a proven track record of shipping agentic AI systems into production for enterprise environments. In this role, you will design, build, and deploy production-grade AI agents capable of multi-agent orchestration, complex tool...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
-      "postedAt": "Thu, 22 Oct 2026 18:54:42 +0000",
-      "tags": [
-        "GCP",
-        "Rails"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-offerup-software-development-engineer-ii-remote-colombia",
-      "company": "OfferUp",
-      "position": "Software Development Engineer II (Remote @ Colombia)",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Remote @ Colombia About the role: The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search alert runs through services we own, from messaging and notifications to location,...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-      "postedAt": "Thu, 22 Oct 2026 07:31:08 +0000",
+      "description": "As an Applied AI Engineer on the Commercial team at Anthropic, you will be a trusted technical advisor to the companies that run the real economy, across software, financial services, healthcare, retail, manufacturing, and professional services, as they go from using Claude to building on it....",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "postedAt": "2026-11-18T11:26:55-05:00",
       "tags": [
         "TypeScript",
-        "Rust",
-        "Node.js",
-        "AWS",
-        "Kubernetes",
-        "Claude Code",
-        "Java",
-        "Vue.js",
-        "Redis"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-growth-minded-senior-data-engineer",
-      "company": "Growth Minded",
-      "position": "Senior Data Engineer",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Remote URL: https://growthminded.co About the role You'll own the data layer underneath InsightsOS and EngageOS, the products that turn booking, CRM, ad, and financial data from multi-location brands into proactive insights and automated actions. Today that layer is built and...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
-      "postedAt": "Mon, 19 Oct 2026 12:47:58 +0000",
-      "tags": [
         "Python",
-        "PostgreSQL",
-        "Claude Code"
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
       ],
-      "companyIcon": ""
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5484035008",
@@ -151,6 +95,29 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "rok-remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "company": "GT",
+      "position": "Senior Agentic AI Engineer NDA",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of the client, GT is looking for a Senior Agentic AI...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "postedAt": "2026-11-09T16:00:13+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "Azure",
+        "Docker",
+        "Claude Code",
+        "Cursor",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "anth-5473198008",
       "company": "Anthropic",
       "position": "Applied AI Architect, Democratic Partnerships ",
@@ -191,6 +158,30 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "rok-remote-feltsense-ai-engineer-silver-dev-1137691",
+      "company": "Silver.dev",
+      "position": "Feltsense AI Engineer",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems,...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "postedAt": "2026-11-05T16:00:07+00:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Supabase",
+        "GCP",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-50373706",
@@ -530,6 +521,29 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "rok-remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "company": "Smile Digital Health",
+      "position": "Cloud Engineer Automation",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "postedAt": "2026-10-29T16:00:03+00:00",
+      "tags": [
+        "Python",
+        "Go",
+        "PostgreSQL",
+        "Azure",
+        "Kubernetes",
+        "Claude Code",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "anth-5464493008",
       "company": "Anthropic",
       "position": "Tech Lead Manager, Claude Code Data Scientist",
@@ -549,6 +563,29 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "rok-remote-senior-software-engineer-latam-wagmo-1137572",
+      "company": "Wagmo",
+      "position": "Senior Software Engineer LATAM",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+      "postedAt": "2026-10-26T08:00:06+00:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Go",
+        "Claude Code",
+        "Django"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "anth-5455627008",
@@ -695,6 +732,29 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "rok-remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "company": "Wrapbook",
+      "position": "Senior Software Engineer II Applied AI",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount,...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "postedAt": "2026-10-15T16:00:03+00:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Node.js",
+        "AWS",
+        "Java"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-50104234",
