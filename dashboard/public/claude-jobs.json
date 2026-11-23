@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-22T03:11:52.653993+00:00",
-  "totalJobs": 105,
+  "lastUpdated": "2026-11-23T03:13:52.299962+00:00",
+  "totalJobs": 104,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -46,6 +46,24 @@
         "Ruby",
         "Rails",
         "Redis"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "rok-remote-enterprise-performance-lead-clover-health-1137944",
+      "company": "Clover Health",
+      "position": "Enterprise Performance Lead",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Clover is reinventing health insurance by working to keep people healthier. The Actuarial Strategic Operations team serves as the operational and financial nerve center for Clover's Medicare Advantage business. Embedded within the Actuarial and Finance organization, the team combines deep business...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
+      "postedAt": "2026-11-21T04:40:04+00:00",
+      "tags": [
+        "Python",
+        "Rust"
       ],
       "companyIcon": ""
     },
@@ -144,45 +162,6 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "rok-remote-principal-devsecops-engineer-upgrade-1137858",
-      "company": "Upgrade",
-      "position": "Principal DevSecOps Engineer",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "About the Role: We are looking for a highly technical, hands-on Principal DevSecOps Developer to join Upgrade's Security team. In this role, you'll focus on building and improving security automation, strengthening our SaaS environment, and developing scalable solutions that enhance security...",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
-      "source": "RemoteOK",
-      "sourceUrl": "https://remoteok.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
-      "postedAt": "2026-11-19T20:45:40+00:00",
-      "tags": [
-        "Python",
-        "AWS",
-        "GCP",
-        "Docker",
-        "Kubernetes"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "rok-remote-senior-account-executive-ii-collibra-1137840",
-      "company": "Collibra",
-      "position": "Senior Account Executive II",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Join Collibra's Sales team as a Senior Enterprise Account Executive II, - East Coast Make an impact at Collibra by fueling Collibra's growth in your assigned East Coast territory and be the guiding force behind bringing Collibra's value and vision to customers and prospects. As part of our...",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-ii-collibra-1137840",
-      "source": "RemoteOK",
-      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-account-executive-ii-collibra-1137840",
-      "postedAt": "2026-11-19T16:15:12+00:00",
-      "tags": [
-        "Rust",
-        "Copilot"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "anth-5483945008",
